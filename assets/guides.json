@@ -1,5 +1,12 @@
 {"guides": [
 {
+  "GuideTitle": "What is Evmos? A Detailed Guide",
+  "Description": "Coingecko's guide to Evmos ecosystem",
+  "TitleImage": "https://s3.amazonaws.com/assets.coingecko.com/app/public/ckeditor_assets/pictures/4363/content_evmos_crypto_cover.png",
+  "Link": "https://www.coingecko.com/learn/what-is-evmos-a-detailed-guide"
+}
+,
+{
   "GuideTitle": "Assets Page Quick-Reference Guide",
   "Description": "quick-reference guide to using Deposit, Withdraw and Convert on the Evmos Assets Page",
   "TitleImage": "https://miro.medium.com/max/828/1*IB7z62VVFWi8HRELj6Atwg.webp",
