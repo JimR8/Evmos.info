@@ -14,6 +14,13 @@
 }
 ,
 {
+  "GuideTitle": "Evmos Node installation and quickstart ",
+  "Description": "A Quickstart guide to install and setup Evmos binaries",
+  "TitleImage": "https://miro.medium.com/max/720/1*809DkS61g06CJwq8Gdp_Cw.png",
+  "Link": "img/node.png"
+}
+,
+{
   "GuideTitle": "Evmos Metamask setup",
   "Description": "Setup the metamask browser extension is a wallet for accessing Ethereum-enabled applications and managing user identities",
   "TitleImage": "img/metamask.webp",
