@@ -16,8 +16,8 @@
 {
   "GuideTitle": "Evmos Node installation and quickstart ",
   "Description": "A Quickstart guide to install and setup Evmos binaries",
-  "TitleImage": "https://miro.medium.com/max/720/1*809DkS61g06CJwq8Gdp_Cw.png",
-  "Link": "img/node.png"
+  "TitleImage": "img/node.png",
+  "Link": "https://docs.evmos.org/validators/quickstart/installation.html"
 }
 ,
 {
