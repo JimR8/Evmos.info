@@ -26,11 +26,18 @@
   "TitleImage": "img/metamask.webp",
   "Link": "https://docs.evmos.org/users/wallets/metamask.html"
 }
-, 
+,
+{
+  "GuideTitle": "How to use the Evmos Assets page",
+  "Description": "How to use the Evmos Assets Page",
+  "TitleImage": "https://miro.medium.com/max/720/0*tGl4YJkSaDhhy9ef",
+  "Link": "https://medium.com/evmos/assets-page-quick-reference-guide-f1cd09e7cb85"
+}
+,
 {
   "GuideTitle": "Evmos Assets Quick-Reference",
   "Description": "Quick reference guide to using Deposit, Withdraw and Convert on the Evmos Assets Page",
-  "TitleImage": "https://miro.medium.com/max/720/1*IB7z62VVFWi8HRELj6Atwg.png",
+  "TitleImage": "https://miro.medium.com/max/720/0*tGl4YJkSaDhhy9ef",
   "Link": "https://medium.com/evmos/assets-page-quick-reference-guide-f1cd09e7cb85"
 }
 ,
