@@ -59,6 +59,8 @@
 ,
 {"ProjectName": "Evmos Punks","ShortDescription": "Punks on the EvmOS chain built w/ Cosmos SDK","Description": "Punks on the EvmOS chain built w/ Cosmos SDK","LogoName": "punks.jpg","Website": "https://ospunks.com/","Twitter": "https://twitter.com/EvmOSPunks","Telegram": "","Discord": "https://discord.com/invite/XjSN8k22ue","Blog": "","Github": "","Other": "","Category": "NFT"} 
 ,
+{"ProjectName": "Evmos Reddit","ShortDescription": "Evmos community subreddit","Description": "Evmos community subreddit","LogoName": "reddit.png","Website": "https://www.reddit.com/r/EVMOS/","Twitter": "","Telegram": "","Discord": "","Blog": "","Github": "","Other": "","Category": "Misc"} 
+,
 {"ProjectName": "Evmos.Space","ShortDescription": "Project discovery portal","Description": "Project discovery portal tracking all the latest projects on Evmos","LogoName": "swiss.jpg","Website": "https://evmos.space/","Twitter": "https://twitter.com/swiss_staking","Telegram": "https://t.me/swissstaking","Discord": "","Blog": "https://swiss-staking.medium.com/","Github": "","Other": "","Category": "Tools"} 
 ,
 {"ProjectName": "EvmoSwap","ShortDescription": "EvmoSwap is a AMM DEX on Evmos","Description": "EvmoSwap is a AMM DEX on Evmos","LogoName": "evmosswap.jpg","Website": "https://app.evmoswap.org/swap","Twitter": "https://twitter.com/evmoswap","Telegram": "https://t.me/evmoswap","Discord": "https://discord.gg/cEp53UXPw3","Blog": "https://evmoswap.medium.com/","Github": "https://github.com/evmoswap","Other": "https://www.coingecko.com/coins/evmoswap","Category": "Defi"} 
