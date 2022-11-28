@@ -14,6 +14,13 @@
 }
 ,
 {
+  "GuideTitle": "Evmos Metamask setup",
+  "Description": "Setup the metamask browser extension is a wallet for accessing Ethereum-enabled applications and managing user identities",
+  "TitleImage": "img/metamask.webp",
+  "Link": "https://docs.evmos.org/users/wallets/metamask.html"
+}
+, 
+{
   "GuideTitle": "Evmos Assets Quick-Reference",
   "Description": "Quick reference guide to using Deposit, Withdraw and Convert on the Evmos Assets Page",
   "TitleImage": "https://miro.medium.com/max/720/1*IB7z62VVFWi8HRELj6Atwg.png",
