@@ -1,0 +1,6 @@
+{
+  "GuideTitle": "Introducing Evmos’ ERC-20 Module",
+  "Description": "Evmos v0.4 upgrade includes support for the ERC-20 module (aka x/erc20). The module allows users to instantly convert ERC-20 tokens into native Cosmos Coins and vice versa",
+  "TitleImage": "https://miro.medium.com/max/720/0*rNxmQ0s13SGgzP5T",
+  "Link": "https://medium.com/evmos/introducing-evmos-erc20-module-f40a61e05273"
+}
