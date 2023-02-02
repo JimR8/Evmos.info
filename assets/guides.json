@@ -1,5 +1,12 @@
 {"guides": [
 {
+  "GuideTitle": "The Evmos Manifesto",
+  "Description": "The Evmos Manifesto",
+  "TitleImage": "https://miro.medium.com/max/720/0*mQ1pabQ98SgL4o53",
+  "Link": "https://medium.com/evmos/the-evmos-manifesto-7fe5d1ab0d67"
+}
+,
+{
   "GuideTitle": "What is Evmos? A Detailed Guide",
   "Description": "Coingecko's guide to Evmos ecosystem",
   "TitleImage": "https://s3.amazonaws.com/assets.coingecko.com/app/public/ckeditor_assets/pictures/4363/content_evmos_crypto_cover.png",
